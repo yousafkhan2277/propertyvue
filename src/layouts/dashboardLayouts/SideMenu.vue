@@ -22,7 +22,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="my-listings.html">
+                                        <a href="/myProperty">
                                             <i class="fa fa-list" aria-hidden="true"></i>My Properties
                                         </a>
                                     </li>

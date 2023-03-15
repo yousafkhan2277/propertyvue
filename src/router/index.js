@@ -3,6 +3,7 @@ import FrontendLayout from "../layouts/frontendLayouts/index.vue";
 import DashboardLayout from "../layouts/dashboardLayouts/index.vue";
 import indexPublicPage from '../views/indexPublicPage.vue'
 import addProperty from '../views/dashboard/addProperty.vue'
+import myProperty from '../views/dashboard/myProperty.vue'
 import changePassword from '../views/dashboard/changePassword.vue'
 
 import updateProfile from '../views/dashboard/updateProfile.vue'
@@ -41,6 +42,10 @@ const routes = [
       {
         path: "/updateProfile",
         component: updateProfile,
+      },
+      {
+        path: "/myProperty",
+        component: myProperty,
       },
     ],
 },

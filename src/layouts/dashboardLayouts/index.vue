@@ -46,16 +46,6 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="payment-method.html">
-                                                    <i class="fas fa-credit-card mr-3"></i>Payments
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="invoice.html">
-                                                    <i class="fas fa-paste mr-3"></i>Invoices
-                                                </a>
-                                            </li>
-                                            <li>
                                                 <a href="change-password.html">
                                                     <i class="fa fa-lock mr-3"></i>Change Password
                                                 </a>
